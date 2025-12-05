@@ -46,17 +46,7 @@ const giovanna = {
 - 👯 **Open to:** Collaborate on backend APIs
 - 🤔 **Looking for:** Development opportunities and mentorship
 - 💬 **Ask me about:** .NET, C#, web development, or tech in general!
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gipissin&show_icons=true&theme=dracula&border_color=FF69B4&title_color=FF69B4&icon_color=FF69B4)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gipissin&layout=compact&theme=dracula&border_color=FF69B4&title_color=FF69B4)
-
-</div>
-
+- 
 ## 🌸 Featured Projects
 
 ### [🥬 Sistema Hortifruti](https://github.com/gipissin/hortifruti_access)
