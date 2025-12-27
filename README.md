@@ -58,6 +58,11 @@ public class Developer
 
 ## 🌸 Featured Projects
 
+### [📚 Learning Projects](https://github.com/gipissin/learning)
+Repositório de estudos com projetos práticos desenvolvidos durante meu aprendizado em diversas linguagens e tecnologias.
+
+**Tech:** `C#` `.NET` `JavaScript` 
+
 ### [🥬 Sistema Hortifruti](https://github.com/gipissin/hortifruti_access)
 Sistema de gestão completo desenvolvido em Microsoft Access e VBA para controle de estoque e vendas.
 
