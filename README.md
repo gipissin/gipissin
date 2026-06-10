@@ -1,90 +1,71 @@
-# ✨ Hello! I'm Giovanna (gipissin) ✨
-
 <div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=.NET+Developer+%F0%9F%8C%B8)
 
-</div>
-
----
-
-## 🌸 About Me
-```csharp
-public class Developer
-{
-    public string Name { get; set; } = "Giovanna";
-    public string Pronouns { get; set; } = "she/her";
-    public string Location { get; set; } = "Brasil 🇧🇷";
-    public string Education { get; set; } = "Análise e Desenvolvimento de Sistemas @ FATEC";
-    public string CurrentFocus { get; set; } = ".NET Development";
-    public List<string> Interests { get; set; } = new()
-    {
-        "Backend APIs",
-        "C# Development",
-        "Tech Innovation"
-    };
-    public string FunFact { get; set; } = "I love animes! 💕";
-}
+```
+☽ · · · · · · · · ☾
 ```
 
-## 💻 Tech Stack
+# giovanna vinturi
 
-<div align="center">
+.NET developer · ADS student · debugging spells since 3am
 
-### 🎀 Languages & Frameworks
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-### 🌺 Currently Learning
-
-![C# Advanced](https://img.shields.io/badge/C%23_Advanced-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-</div>
-
-## 🎯 What I'm Up To
-
-- 🔭 **Working on:** Backend APIs with C# and .NET
-- 🌱 **Learning:** ASP.NET Core and advanced C# patterns
-- 👯 **Open to:** Collaborate on .NET backend projects
-- 🤔 **Looking for:** Development opportunities and mentorship
-- 💬 **Ask me about:** .NET, C#, APIs, or tech in general!
-
-## 🌸 Featured Projects
-
-### [📚 Learning Projects](https://github.com/gipissin/learning)
-Repositório de estudos com projetos práticos desenvolvidos durante meu aprendizado em diversas linguagens e tecnologias.
-
-**Tech:** `C#` `.NET` `JavaScript` 
-
-### [🥬 Sistema Hortifruti](https://github.com/gipissin/hortifruti_access)
-Sistema de gestão completo desenvolvido em Microsoft Access e VBA para controle de estoque e vendas.
-
-**Tech:** `Access` `VBA` `Database Management`
-
----
-
-## 💌 Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovannavinturi)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gipissin)
+```
+☾ · · · · · · · · ☽
+```
 
 </div>
 
 ---
 
+## about
+
+I study Systems Analysis and Development at FATEC São Caetano do Sul.
+I work mainly within the .NET ecosystem — C#, VB.NET, SQL Server — and I'm building a solid backend foundation before moving into APIs and architecture.
+
+I believe well-written code has something of a ritual to it: every function in its place, every variable named with intention, every commit with purpose.
+
+---
+
+## stack
+
 <div align="center">
-  
-  ### ✨ Thanks for visiting! ✨
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=gipissin&color=ff69b4&style=flat-square)
-  
+
+![C#](https://img.shields.io/badge/C%23-7B68EE?style=flat-square&logo=c-sharp&logoColor=white)
+![VB.NET](https://img.shields.io/badge/VB.NET-9B59B6?style=flat-square&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-6A5ACD?style=flat-square&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-4A235A?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-C9A84C?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-5B8FA8?style=flat-square&logo=python&logoColor=white)
+
+</div>
+
+---
+
+## projects
+
+**[Grimore](https://github.com/gipissin/grimore)** — desktop library management system
+built as an academic team project. VB.NET, Windows Forms, SQL Server, ADO.NET.
+*a grimoire that holds books, loans, and secrets.*
+
+**[Learning](https://github.com/gipissin/learning)** — studies and experiments
+C#, .NET, JavaScript.
+
+---
+
+## contact
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4A235A?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovannavinturi)
+[![GitHub](https://img.shields.io/badge/GitHub-2C1654?style=flat-square&logo=github&logoColor=white)](https://github.com/gipissin)
+
+</div>
+
+---
+
+<div align="center">
+
+*"every grimoire begins blank."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=gipissin&color=9b59b6&style=flat-square)
+
 </div>
